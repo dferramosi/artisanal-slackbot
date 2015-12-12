@@ -1,4 +1,4 @@
 #! /bin/bash
 
-git remote add dokku dokku@dokku.ferrantel.li:sudden-death-hubot
+git remote add dokku dokku@dokku.ferrantel.li:artisanal-slackbot
 git push dokku master
